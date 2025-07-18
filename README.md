@@ -1,6 +1,6 @@
 # 🧠 AI Model Comparison: Overfitting Reduction through Architectural Changes
 
-This project builds and compares two Convolutional Neural Networks (CNNs) to classify images of horses vs. humans using TensorFlow and Keras. The dataset and baseline model were provided as part of coursework in machine learning, and I iterated on a baseline model to improve performance and reduce overfitting.
+This project builds and compares two Convolutional Neural Networks (CNNs) to classify images of horses vs. humans using TensorFlow and Keras. The dataset and baseline model were provided as part of coursework in machine learning, and I iterated on the baseline model to improve performance and reduce overfitting.
 
 ---
 
