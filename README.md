@@ -54,7 +54,7 @@ To address overfitting and improve generalization, the following changes were ap
 
 ---
 
-### 🧱 Revised Model Architecture (Simplified)
+### 🧱 Optimized Model Architecture (Simplified)
 
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┓
