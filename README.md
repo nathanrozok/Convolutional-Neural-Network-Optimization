@@ -39,7 +39,7 @@ To address overfitting and improve generalization, the following changes were ap
 
 ## 📈 Performance Comparison
 
-| Metric            | Original Model | Revised Model |
+| Metric            | Original Model | Optimized Model |
 |------------------|----------------|---------------|
 | Final Val Accuracy | ~91%         | **~94%**      |
 | Overfitting Signs | Significant   | Greatly Reduced |
@@ -95,4 +95,4 @@ To address overfitting and improve generalization, the following changes were ap
 
 ---
 
-📌 *Case study developed by Nathan Rozok — AI Product Manager focused on building ethical, scalable AI solutions.*
+📌 *Conv. Neural Network ML Model Optimizations and Comparison summary by Nathan Rozok — AI Product Manager focused on building ethical, scalable AI solutions.*
